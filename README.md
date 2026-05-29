@@ -10,15 +10,7 @@ Currently focused on improving my frontend skills, building real-world projects,
 
 ## 🧰 Tech Stack
 
-**Frontend:**
-HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js
-
-**Tools & Libraries:**
-Git • GitHub • Vite • Axios • TanStack Query • Zustand • Formik • Yup
-
-**Other:**
-REST API • Responsive Design • Agile/Scrum • Figma
-
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,git,github,figma,redux,npm,axios)](https://skillicons.dev)
 ---
 
 ## 💻 Featured Projects
